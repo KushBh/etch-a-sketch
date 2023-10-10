@@ -1,0 +1,9 @@
+#container{
+    width: 960px;
+    height: 960px;
+}
+
+div{
+    flex: 1 1 0;
+    border: solid 3px black;
+}
